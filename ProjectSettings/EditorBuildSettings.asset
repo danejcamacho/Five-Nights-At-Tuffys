@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/NightOver.unity
+    guid: 4e53f995e59ca44919b5108b891b82b3
+  - enabled: 1
+    path: Assets/Scenes/Night1.unity
+    guid: aa7a9cb15fdbf4611a4c3d6c873ee9ab
+  - enabled: 1
+    path: Assets/Scenes/Night2.unity
+    guid: 59506f06d2f0e430bb1cc61a307a88c0
+  m_configObjects: {}
